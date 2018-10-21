@@ -1,3 +1,3 @@
 # October
 
-#Read.me of my repo
+# Read.me of my repo
